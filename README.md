@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Web and Mobile Development**
+ 🔭 I’m currently working on **Web Development**
  
- 🌱 I’m currently learning **React JS, Next JS, Django, Flutter**
+ 🌱 I’m currently learning **React JS, Next JS, Django**
 
 💬 Ask me about **Open Source and Web Dev**
 
@@ -44,7 +44,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,next,django,bootstrap,html,css,vscode,github,figma,tailwind,git,powershell" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,java,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,c,cpp,java" /><br>
 </div>
 
 <br/>
