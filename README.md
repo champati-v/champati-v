@@ -5,9 +5,12 @@
 </h1>
 
 <h3 align="center">A passionate Frontend Developer and CSE undergrad</h3>
-<a href="https://vibek-code.vercel.app/" target="_blank">
-    <h1>My Portfolio Website</h1>
-</a>
+
+<h3 align="center">
+    <a href="https://vibek-code.vercel.app/">
+        My Portfolio Website 🌐🔗
+    </a>
+</h3>
 
 <br/>
 
